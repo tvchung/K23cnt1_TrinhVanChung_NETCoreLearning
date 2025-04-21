@@ -8,3 +8,4 @@
 - ◆ Tạo ứng dụng ASP.NET Core đầu tiên
 - ◆ Cấu trúc project
 - ◆ Tạo ứng dụng ASP.NET Core MVC với template
+- Slide: https://drive.google.com/file/d/1ZiYAqTh4VWM6UksGX1_HG1q7wf4vYLlJ/view?usp=sharing
