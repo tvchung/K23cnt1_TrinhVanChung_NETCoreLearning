@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\views\\shared\\_tvcfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:views\\shared\\_tvcfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\views\\shared\\_tvclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:views\\shared\\_tvclayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\views\\shared\\_tvcnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:views\\shared\\_tvcnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\views\\tvchome\\tvcrazorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:views\\tvchome\\tvcrazorcode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\controllers\\tvchomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:controllers\\tvchomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\views\\tvchome\\tvcabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:views\\tvchome\\tvcabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|c:\\devmaster.edu.vn\\k23cnt-netcore\\k23cnt1_trinhvanchung_netcorelearning\\tvclesson03\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F700AC48-8977-4519-B1D7-379782F667F2}|TvcLesson03.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_TvcFooter.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\Shared\\_TvcFooter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TvcFooter.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\Shared\\_TvcFooter.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_TvcFooter.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T02:29:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_TvcNavBar.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\Shared\\_TvcNavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TvcNavBar.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\Shared\\_TvcNavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_TvcNavBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T02:27:09.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T02:22:08.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TvcRazorCode.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\TvcHome\\TvcRazorCode.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcHome\\TvcRazorCode.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\TvcHome\\TvcRazorCode.cshtml",
+              "RelativeToolTip": "Views\\TvcHome\\TvcRazorCode.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwDEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T02:02:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TvcAbout.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\TvcHome\\TvcAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\TvcHome\\TvcAbout.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\TvcHome\\TvcAbout.cshtml",
+              "RelativeToolTip": "Views\\TvcHome\\TvcAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T01:43:09.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_TvcLayout.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\Shared\\_TvcLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_TvcLayout.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\Shared\\_TvcLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_TvcLayout.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T01:38:02.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:34:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TvcHomeController.cs",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Controllers\\TvcHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TvcHomeController.cs",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Controllers\\TvcHomeController.cs",
+              "RelativeToolTip": "Controllers\\TvcHomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA8wCUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T01:27:12.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson03\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T01:25:02.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
