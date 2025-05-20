@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TvcLesson05Model.props" />
+</Project>
