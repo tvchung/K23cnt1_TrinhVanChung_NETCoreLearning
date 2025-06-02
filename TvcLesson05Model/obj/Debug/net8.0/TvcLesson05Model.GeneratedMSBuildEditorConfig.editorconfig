@@ -17,47 +17,47 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TvcLesson05Model
 build_property.RootNamespace = TvcLesson05Model
-build_property.ProjectDir = C:\devmaster.edu.vn\K23CNT-NETCore\k23cnt2_TrinhVanChung_NetCore\TvcLesson05Model\
+build_property.ProjectDir = C:\devmaster.edu.vn\K23CNT-NETCore\K23cnt1_TrinhVanChung_NETCoreLearning\TvcLesson05Model\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\devmaster.edu.vn\K23CNT-NETCore\k23cnt2_TrinhVanChung_NetCore\TvcLesson05Model
+build_property.MSBuildProjectDirectory = C:\devmaster.edu.vn\K23CNT-NETCore\K23cnt1_TrinhVanChung_NETCoreLearning\TvcLesson05Model
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/Shared/Error.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/TvcHome/Privacy.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/TvcHome/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/TvcHome/TvcAbout.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/TvcHome/TvcAbout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjSG9tZVxUdmNBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/TvcHome/TvcIndex.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/TvcHome/TvcIndex.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjSG9tZVxUdmNJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/TvcMember/TvcGetMember.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/TvcMember/TvcGetMember.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHZjTWVtYmVyXFR2Y0dldE1lbWJlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/_ViewImports.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/_ViewStart.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/devmaster.edu.vn/K23CNT-NETCore/k23cnt2_TrinhVanChung_NetCore/TvcLesson05Model/Views/Shared/_TvcLayout.cshtml]
+[C:/devmaster.edu.vn/K23CNT-NETCore/K23cnt1_TrinhVanChung_NETCoreLearning/TvcLesson05Model/Views/Shared/_TvcLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UdmNMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jupfwohpdi

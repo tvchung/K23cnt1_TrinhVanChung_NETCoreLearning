@@ -5573,11 +5573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\k23cnt2_TrinhVanChung_NetCore\\TvcLesson05Model\\TvcLesson05Model.csproj",
+      "projectUniqueName": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson05Model\\TvcLesson05Model.csproj",
       "projectName": "TvcLesson05Model",
-      "projectPath": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\k23cnt2_TrinhVanChung_NetCore\\TvcLesson05Model\\TvcLesson05Model.csproj",
+      "projectPath": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson05Model\\TvcLesson05Model.csproj",
       "packagesPath": "C:\\Users\\Chung Trinh\\.nuget\\packages\\",
-      "outputPath": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\k23cnt2_TrinhVanChung_NetCore\\TvcLesson05Model\\obj\\",
+      "outputPath": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson05Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

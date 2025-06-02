@@ -1,0 +1,66 @@
+﻿@model IEnumerable<TvcLesson07.Models.TvcMember>
+
+@{
+    ViewData["Title"] = "TvcIndex";
+    Layout = "~/Views/Shared/_TvcLayout.cshtml";
+}
+
+<h1>TvcIndex</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tvcStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tvcStatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

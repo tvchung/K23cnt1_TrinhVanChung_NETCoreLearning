@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XhXOWdyoft4QXZ6diUxU6S6y0iKGmWDv2A3oMEdSIE1dabs2AqjLmdqFDJpSUlDQSlbv979di/XEEG0UBjw/dQ==",
+  "dgSpecHash": "M67sFLfH5IWBvJgAWARw7B7qON0mognjFnDQKPdoja26F8GzHzh+fe3LVHwmf1iR5DMTNuObpTyV822gQBwQzQ==",
   "success": true,
-  "projectFilePath": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\k23cnt2_TrinhVanChung_NetCore\\TvcLesson05Model\\TvcLesson05Model.csproj",
+  "projectFilePath": "C:\\devmaster.edu.vn\\K23CNT-NETCore\\K23cnt1_TrinhVanChung_NETCoreLearning\\TvcLesson05Model\\TvcLesson05Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chung Trinh\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Chung Trinh\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
