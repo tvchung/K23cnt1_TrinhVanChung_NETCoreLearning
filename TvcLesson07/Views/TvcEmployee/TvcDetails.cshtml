@@ -1,0 +1,61 @@
+﻿@model TvcLesson07.Models.TvcEmployee
+
+@{
+    ViewData["Title"] = "TvcDetails";
+    Layout = "~/Views/Shared/_TvcLayout.cshtml";
+}
+
+<h1>TvcDetails</h1>
+
+<div>
+    <h4>TvcEmployee</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TvcId)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TvcId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TvcName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TvcName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TvcBirthDay)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TvcBirthDay)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TvcEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TvcEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TvcPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TvcPhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TvcSalary)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TvcSalary)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TvcStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TvcStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "TvcEdit", new { id = Model.TvcId }) |
+    <a asp-action="TvcIndex">Back to List</a>
+</div>

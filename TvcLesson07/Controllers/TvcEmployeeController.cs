@@ -21,23 +21,23 @@ namespace TvcLesson07.Controllers
         // GET: /TvcEmployee/TvcCreate
         public IActionResult TvcCreate()
         {
-            var model = new TvcEmployee();
-            return View(model);
+            var tvcModel = new TvcEmployee();
+            return View(tvcModel);
         }
 
         // POST: /TvcEmployee/TvcCreate
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult TvcCreate(TvcEmployee model)
+        public ActionResult TvcCreate(TvcEmployee tvcModel)
         {
             try
             {
                 // Tự động sinh mã nếu cần
-                if (model.TvcId == 0)
+                if (tvcModel.TvcId == 0)
                 {
-                    model.TvcId = tvcListEmployees.Max(e => e.TvcId) + 1;
+                    tvcModel.TvcId = tvcListEmployees.Max(e => e.TvcId) + 1;
                 }
-                tvcListEmployees.Add(model);
+                tvcListEmployees.Add(tvcModel);
                 return RedirectToAction(nameof(TvcIndex));
             }
             catch
@@ -47,12 +47,73 @@ namespace TvcLesson07.Controllers
         }
 
 
-        //  GET: /TvcEmployee/TvcEdit/id?
+        //  GET: /TvcEmployee/TvcEdit/5
         public IActionResult TvcEdit(int id)
         {
-            var model = tvcListEmployees.FirstOrDefault(x => x.TvcId == id);
-            return View(model);
+            var tvcModel = tvcListEmployees.FirstOrDefault(x => x.TvcId == id);
+            return View(tvcModel);
+        }
+        // POST: TvcEmployee/TvcEdit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult TvcEdit(int id, TvcEmployee tvcModel)
+        {
+            try
+            {
+                // cập nhật model vào danh sách 
+                for (int i = 0; i < tvcListEmployees.Count; i++)
+                {
+                    if (tvcListEmployees[i].TvcId == id)
+                    {
+                        tvcListEmployees[i] = tvcModel;
+                        break;
+                    }
+                }
+                return RedirectToAction(nameof(TvcIndex));
+            }
+            catch
+            {
+                return View();
+            }
         }
 
+        // GET: TvcEmployee/TvcDetails/5
+        public ActionResult TvcDetails(int id)
+        {
+            var tvcModel = tvcListEmployees.FirstOrDefault(x => x.TvcId == id);
+            return View(tvcModel);
+        }
+
+
+        // GET: TvcEmployee/TvcDelete/5
+        public ActionResult TvcDelete(int id)
+        {
+            var tvcModel = tvcListEmployees.FirstOrDefault(x => x.TvcId == id);
+            return View(tvcModel);
+        }
+
+        // POST: TvcEmployee/TvcDelete/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult TvcDelete(int id, TvcEmployee tvcModel)
+        {
+            try
+            {
+                // cập nhật xóa model khỏi danh sách
+                for (int i = 0; i < tvcListEmployees.Count; i++)
+                {
+                    if (tvcListEmployees[i].TvcId == id)
+                    {
+                        tvcListEmployees.RemoveAt(i);
+                        break;
+                    }
+                }
+                return RedirectToAction(nameof(TvcIndex));
+            }
+            catch
+            {
+                return View();
+            }
+        }
     }
 }
